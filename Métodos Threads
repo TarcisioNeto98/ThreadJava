@@ -1,0 +1,17 @@
+Classe Thread
+
+    getName
+
+    Utilizado para obter o nome da thread
+    
+    getPriority
+    
+    Utilizado para obter a prioridade da thread.
+
+    isAlive 	Determine if a thread is still running
+    join 	Wait for a thread to terminate
+    run 	Entry point for the thread
+    sleep 	Suspend a thread for a period of time
+    start 	
+
+    Start a thread by calling its run method
